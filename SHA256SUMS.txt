@@ -1,2 +1,2 @@
-9c3b32ed4d380987cbbbdbf1cc077958b6137f7b60ba3cf5dcd3ddb702807298  Attention-First-Setup-0.7.1.exe
-bb12c55e71879b64ee4a86536d14094dd4d8d2bb793d62067f20a7089cb2bc13  Attention-First-0.7.1-arm64.dmg
+fe9d8a22dd167946c504bc21595ac37bd56408d1f64941a02b9948b8a4111546  Attention-First-Setup-0.7.2.exe
+1c5d45c62a5ee3374e968f7a6b4a46d80febd6473ceab6ff2fca017325278ed0  Attention-First-0.7.2-arm64.dmg
