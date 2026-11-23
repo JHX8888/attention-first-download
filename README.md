@@ -5,12 +5,12 @@ nach Eingang. Alles läuft auf dem eigenen Rechner, auch das Sprachmodell.
 
 Dieses Repository enthält nur die Installer der Testversion, keinen Quelltext.
 
-## Download (Version 0.7.3)
+## Download (Version 0.7.4)
 
 | System | Datei |
 |---|---|
-| Windows 10/11 (x64) | [Attention-First-Setup-0.7.3.exe](https://github.com/JHX8888/attention-first-download/releases/download/v0.7.3/Attention-First-Setup-0.7.3.exe) |
-| macOS (Apple-Chip) | [Attention-First-0.7.3-arm64.dmg](https://github.com/JHX8888/attention-first-download/releases/download/v0.7.3/Attention-First-0.7.3-arm64.dmg) |
+| Windows 10/11 (x64) | [Attention-First-Setup-0.7.4.exe](https://github.com/JHX8888/attention-first-download/releases/download/v0.7.4/Attention-First-Setup-0.7.4.exe) |
+| macOS (Apple-Chip) | [Attention-First-0.7.4-arm64.dmg](https://github.com/JHX8888/attention-first-download/releases/download/v0.7.4/Attention-First-0.7.4-arm64.dmg) |
 
 Prüfsummen (SHA-256) stehen in `SHA256SUMS.txt` und am Release.
 
